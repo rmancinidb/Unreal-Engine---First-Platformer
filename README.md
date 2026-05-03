@@ -1,4 +1,4 @@
-Attempting my first platformer game with Unreal Engine. (Test Change)
+Attempting my first platformer game with Unreal Engine.
 
 The project consists of:
 
